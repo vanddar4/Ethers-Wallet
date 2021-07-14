@@ -1,0 +1,9 @@
+Faucets weren’t working so sent rETH from another test wallet to Metamask
+
+Transaction: https://ropsten.etherscan.io/tx/0x40b1ff62f7e374b928dcacf351ae2e2966b11a948f1b17a2ea3d174953156e0b
+
+Main Wallet: https://ropsten.etherscan.io/tx/https://ropsten.etherscan.io/address/0x76f9e959cc956b6c2fadfe8ac61afe90b361468b
+
+2nd Transfer: https://ropsten.etherscan.io/tx/0x57b805fa1afb8dc934bb690a261947ab0eb152e796454ad6952f25a64202debd
+
+2nd Wallet: https://ropsten.etherscan.io/address/0x7e9bdd690ab1c3c7ed56547c6a90968664b970f9
